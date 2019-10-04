@@ -45,6 +45,7 @@
 #words(дабл) |
 #words(даунич) |
 #words(двачмэн) |
+#words(дебик) |
 #words(дебич) |
 #words(дискорд) |
 #words(довен) |
@@ -162,5 +163,4 @@
 #words(шмот) |
 #words(шурыгин) |
 #words(элдж) |
-#exp(/^[^A-ZА-Я]+$/) |
-#wipe(samelines,samewords,longwords,symbols,numbers,whitespace)
+#exp(/^[^A-ZА-Я]+$/)
