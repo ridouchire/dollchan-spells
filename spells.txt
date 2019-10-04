@@ -61,7 +61,6 @@
 #words(зумер) |
 #words(каеф) |
 #words(кек) |
-#words(контр) |
 #words(конф) |
 #words(кочалк) |
 #words(кросс) |
