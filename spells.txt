@@ -20,7 +20,7 @@
 #words(vape) |
 #words(vocaroo.com) |
 #words(xiaomi) |
-#words(xiomi) ||
+#words(xiomi) |
 #words(айфон) |
 #words(ананасик) |
 #words(барбершоп) |
@@ -144,7 +144,7 @@
 #words(трекич) |
 #words(трипл) |
 #words(фарик) |
-#words(фейс) ||
+#words(фейс) |
 #words(френдзон) |
 #words(хайп) |
 #words(хлоя) |
