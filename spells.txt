@@ -5,8 +5,6 @@
 #words(2к18) |
 #words(2к19) |
 #words(dota) |
-#words(face) |
-#words(mmo) |
 #words(roll) |
 #words(steam) |
 #words(twich) |
@@ -18,28 +16,21 @@
 #words(барбершоп) |
 #words(батл) |
 #words(баттл) |
-#words(богин) |
-#words(вайфу) |
+#words(билли айлиш) |
 #words(варик) |
-#words(вейп) |
-#words(версус) |
-#words(вписк) |
 #words(вралам) |
 #words(всм) |
 #words(голова, дай) |
-#words(дабл) |
 #words(даббл) |
+#words(дабл) |
 #words(даунич) |
 #words(двачмэн) |
 #words(дебик) |
 #words(дебич) |
-#words(дискорд) |
 #words(довен) |
 #words(дота) |
 #words(дотк) |
 #words(дружко) |
-#words(еок) |
-#words(еот) |
 #words(жиза) |
 #words(зашквар) |
 #words(зумер) |
@@ -57,6 +48,8 @@
 #words(найс) |
 #words(нэвэльный) |
 #words(опущ) |
+#words(оцени сборку) |
+#words(оцените сборку) |
 #words(паблик) |
 #words(паблос) |
 #words(пидорасик) |
@@ -71,6 +64,7 @@
 #words(путин) |
 #words(пыняльн) |
 #words(ребзя) |
+#words(рейт сборки) |
 #words(рестик) |
 #words(рилток) |
 #words(ролл) |
@@ -85,20 +79,15 @@
 #words(селф) |
 #words(селёд) |
 #words(сижек) |
-#words(стим) |
-#words(стрим) |
 #words(стример) |
 #words(сяоми) |
 #words(твич) |
-#words(телег) |
-#words(телеге) |
 #words(топовая) |
 #words(топовый) |
 #words(топовых) |
 #words(трекич) |
 #words(трипл) |
 #words(фарик) |
-#words(фейс) |
 #words(френдзон) |
 #words(хайп) |
 #words(хлоя) |
@@ -111,5 +100,4 @@
 #words(шкур) |
 #words(шмот) |
 #words(шурыгин) |
-#words(элдж) |
-#exp(/^[^A-ZА-Я]+$/)
+#words(элдж)
