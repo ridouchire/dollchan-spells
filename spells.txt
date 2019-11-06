@@ -4,6 +4,9 @@
 #words(2к17) |
 #words(2к18) |
 #words(2к19) |
+#words(apple) |
+#words(dark webm) |
+#words(darkwebm) |
 #words(dota) |
 #words(roll) |
 #words(steam) |
@@ -18,7 +21,9 @@
 #words(баттл) |
 #words(билли айлиш) |
 #words(варик) |
+#words(вконтакт) |
 #words(вралам) |
+#words(вхуякте) |
 #words(голова, дай) |
 #words(даббл) |
 #words(дабл) |
@@ -27,7 +32,6 @@
 #words(дебик) |
 #words(дебич) |
 #words(довен) |
-#words(дота) |
 #words(дотк) |
 #words(дружко) |
 #words(жиза) |
@@ -60,6 +64,7 @@
 #words(престолов) |
 #words(проиграл) |
 #words(прошаренн) |
+#words(пустите в /fap/) |
 #words(путин) |
 #words(пыняльн) |
 #words(ребзя) |
@@ -80,15 +85,19 @@
 #words(стример) |
 #words(сяоми) |
 #words(твич) |
+#words(телеграм) |
 #words(топовая) |
 #words(топовый) |
 #words(топовых) |
 #words(трекич) |
 #words(трипл) |
+#words(угадай возраст анона) |
 #words(фарик) |
 #words(френдзон) |
 #words(хайп) |
+#words(харламов) |
 #words(хлоя) |
+#words(храмом головы) |
 #words(хрюкни) |
 #words(челик) |
 #words(чмон) |
@@ -98,4 +107,5 @@
 #words(шкур) |
 #words(шмот) |
 #words(шурыгин) |
-#words(элдж)
+#words(элдж) |
+#words(﻿храм головы)
