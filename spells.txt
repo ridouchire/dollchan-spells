@@ -1,9 +1,3 @@
-#words(2k17) |
-#words(2k18) |
-#words(2k19) |
-#words(2к17) |
-#words(2к18) |
-#words(2к19) |
 #words(apple) |
 #words(dark webm) |
 #words(darkwebm) |
@@ -22,9 +16,7 @@
 #words(баттл) |
 #words(билли айлиш) |
 #words(варик) |
-#words(вконтакт) |
 #words(вралам) |
-#words(вхуякте) |
 #words(голова, дай) |
 #words(даббл) |
 #words(дабл) |
@@ -40,7 +32,6 @@
 #words(зумер) |
 #words(каеф) |
 #words(как же хочется няшную) |
-#words(кек) |
 #words(кочалк) |
 #words(ксиаоми) |
 #words(мой лук) |
@@ -51,20 +42,20 @@
 #words(на трипл) |
 #words(найди битарда) |
 #words(найс) |
+#words(навальный) |
 #words(нэвэльный) |
 #words(опросотред) |
 #words(оцени сборку) |
 #words(оцените сборку) |
 #words(паблик) |
 #words(паблос) |
+#words(пидарашк) |
 #words(пидорасик) |
 #words(пикабу) |
 #words(писечк) |
 #words(писичк) |
 #words(подлив) |
 #words(покакал) |
-#words(престолов) |
-#words(проиграл) |
 #words(прошаренн) |
 #words(пустите в /fap) |
 #words(пустите в /fap/) |
