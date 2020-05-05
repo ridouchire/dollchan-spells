@@ -1,107 +1,50 @@
-#words(apple) |
+#words(afg тред) |
 #words(dark webm) |
 #words(darkwebm) |
 #words(dota) |
-#words(pxls тред) |
 #words(roll) |
-#words(steam) |
-#words(twich) |
-#words(vape) |
+#words(tiktok) |
 #words(vocaroo.com) |
-#words(xiaomi) |
-#words(xiomi) |
-#words(ананасик) |
+#words(webm thread) |
+#words(webm) |
 #words(аниме тред) |
-#words(барбершоп) |
-#words(батл) |
-#words(баттл) |
-#words(билли айлиш) |
-#words(варик) |
-#words(вралам) |
+#words(афз тред) |
+#words(бототред) |
 #words(голова, дай) |
-#words(даббл) |
-#words(дабл) |
-#words(даунич) |
-#words(двачмэн) |
-#words(дебик) |
-#words(дебич) |
-#words(довен) |
-#words(дотк) |
-#words(дружко) |
-#words(зашквар) |
-#words(зумер) |
-#words(каеф) |
+#words(добропочта тред) |
+#words(если не ответишь в этот тред) |
+#words(есть одна тян) |
+#words(знаменитостей 10/10 тред) |
 #words(как же хочется няшную) |
-#words(кочалк) |
-#words(ксиаоми) |
-#words(мой лук) |
-#words(мудисон) |
-#words(мэддис) |
-#words(мэдисон) |
-#words(на дабл) |
-#words(на трипл) |
-#words(навальный) |
-#words(найди битарда) |
-#words(найс) |
-#words(нэвэльный) |
+#words(как же хочется) |
+#words(карлан) |
+#words(музыкальный webm) |
+#words(накидайте музычки) |
+#words(не нашел-создал) |
 #words(опросотред) |
 #words(опять на работу пиздос) |
-#words(оцени сборку) |
-#words(оцените сборку) |
-#words(паблик) |
-#words(паблос) |
-#words(пидарашк) |
-#words(пидорасик) |
-#words(пикабу) |
-#words(писечк) |
-#words(писичк) |
-#words(пкм тред) |
-#words(подлив) |
-#words(покакал) |
-#words(прошаренн) |
+#words(оцени тело анона) |
+#words(плейлист анона тред) |
 #words(пустите в /fap) |
 #words(пустите в /fap/) |
 #words(пустите в фап) |
 #words(путин) |
-#words(пыня) |
-#words(ребзя) |
-#words(рейт сборки) |
-#words(рестик) |
-#words(рилток) |
-#words(ротеш) |
-#words(рофл) |
+#words(пын) |
+#words(рейтим) |
 #words(рулетка) |
 #words(рулетки) |
 #words(рулеточк) |
 #words(сакральный олень) |
 #words(саркальный олень) |
-#words(селед) |
-#words(селф) |
-#words(селёд) |
-#words(сижек) |
-#words(стример) |
-#words(сяоми) |
-#words(твич) |
-#words(телеграм) |
-#words(тред имени соколова) |
-#words(трекич) |
-#words(трипл) |
-#words(убийцы соколова тред) |
+#words(твои действия?) |
+#words(тик ток тред) |
+#words(тик ток) |
+#words(тикток) |
 #words(угадай возраст анона) |
-#words(фарик) |
-#words(френдзон) |
-#words(харламов) |
-#words(хлоя) |
+#words(фап тред) |
+#words(фото тред) |
+#words(фраза для автоскрытия куклой) |
+#words(фраза для автоскрытия треда) |
 #words(храмом головы) |
-#words(хрюкни) |
-#words(челик) |
 #words(чмон) |
-#words(чмох) |
-#words(чмохи) |
-#words(шароебов тред) |
-#words(шарю) |
-#words(шкур) |
-#words(шмот) |
-#words(шурыгин) |
-#words(элдж) |
-#words(﻿храм головы)
+#words(что чувствуете глядя)
