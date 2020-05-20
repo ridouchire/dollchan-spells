@@ -2,6 +2,7 @@
 #words(dark webm) |
 #words(darkwebm) |
 #words(dota) |
+#words(ftm-тред) |
 #words(roll) |
 #words(tiktok) |
 #words(vocaroo.com) |
@@ -25,6 +26,7 @@
 #words(опять на работу пиздос) |
 #words(оцени тело анона) |
 #words(плейлист анона тред) |
+#words(по бугурту) |
 #words(пустите в /fap) |
 #words(пустите в /fap/) |
 #words(пустите в фап) |
@@ -46,5 +48,6 @@
 #words(фраза для автоскрытия куклой) |
 #words(фраза для автоскрытия треда) |
 #words(храмом головы) |
+#words(цуиь thread) |
 #words(чмон) |
 #words(что чувствуете глядя)
