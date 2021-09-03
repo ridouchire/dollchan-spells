@@ -4,12 +4,18 @@
 #words(dota) |
 #words(faceapp thread) |
 #words(ftm-тред) |
+#words(fap thread) |
+#words(fap тхреад) |
+#words(pxls тред) |
 #words(roll) |
 #words(tiktok) |
 #words(vk.com) |
 #words(vocaroo.com) |
 #words(webm thread) |
 #words(webm) |
+#words(xiaomi) |
+#words(xiomi) |
+#words(ананасик) |
 #words(аниме тред) |
 #words(афз тред) |
 #words(бототред) |
@@ -29,6 +35,13 @@
 #words(опять на работу пиздос) |
 #words(оцени тело анона) |
 #words(оцените) |
+#words(оцени сборку) |
+#words(оцените сборку) |
+#words(паблик) |
+#words(паблос) |
+#words(пидарашк) |
+#words(пидорасик) |
+#words(пикабу) |
 #words(пкм тред) |
 #words(планирую вести себя как) |
 #words(плейлист анона тред) |
