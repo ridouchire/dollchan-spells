@@ -1,47 +1,35 @@
-#words(afg тред) |
 #words(dark webm) |
 #words(darkwebm) |
+#words(desktop thread) |
 #words(dota) |
-#words(faceapp thread) |
 #words(ftm-тред) |
-#words(fap thread) |
-#words(fap тхреад) |
-#words(pxls тред) |
 #words(roll) |
-#words(tiktok) |
-#words(vk.com) |
+#words(sketchful.io) |
 #words(vocaroo.com) |
-#words(webm thread) |
-#words(webm) |
-#words(xiaomi) |
-#words(xiomi) |
-#words(ананасик) |
+#words(анекдот) |
 #words(аниме тред) |
 #words(афз тред) |
+#words(бамп) |
 #words(бототред) |
-#words(гамергейт) |
+#words(в чем он не прав) |
+#words(в чём он не прав) |
+#words(голова дай денег) |
 #words(голова, дай) |
-#words(добропочта тред) |
+#words(гороскоп) |
+#words(дабл) |
+#words(еот) |
 #words(если не ответишь в этот тред) |
 #words(есть одна тян) |
-#words(знаменитостей 10/10 тред) |
-#words(как же хочется няшную) |
 #words(как же хочется) |
 #words(карлан) |
 #words(музыкальный webm) |
 #words(накидайте музычки) |
-#words(не нашел-создал) |
-#words(опросотред) |
+#words(недрочабрь) |
 #words(опять на работу пиздос) |
-#words(оцени тело анона) |
+#words(оцени анона) |
+#words(оцени тян) |
 #words(оцените) |
-#words(оцени сборку) |
-#words(оцените сборку) |
-#words(паблик) |
-#words(паблос) |
-#words(пидарашк) |
-#words(пидорасик) |
-#words(пикабу) |
+#words(оценка тян) |
 #words(пкм тред) |
 #words(планирую вести себя как) |
 #words(плейлист анона тред) |
@@ -50,27 +38,23 @@
 #words(пустите в /fap/) |
 #words(пустите в фап) |
 #words(путин) |
-#words(пын) |
-#words(рейтим) |
+#words(пыне) |
+#words(пыня) |
 #words(ролл) |
 #words(рулетка) |
 #words(рулетки) |
 #words(рулеточк) |
+#words(русс) |
 #words(сакральный олень) |
 #words(саркальный олень) |
 #words(стрим) |
 #words(твои действия?) |
-#words(тик ток тред) |
-#words(тик ток) |
-#words(тикток) |
 #words(угадай возраст анона) |
-#words(фап тред) |
-#words(фото тред) |
+#words(украин) |
 #words(фраза для автоскрытия куклой) |
 #words(фраза для автоскрытия треда) |
+#words(фурри) |
 #words(храм головы) |
 #words(храмом головы) |
-#words(цуиь thread) |
-#words(чмон) |
 #words(что чувствуете глядя) |
 #words(шкил)
